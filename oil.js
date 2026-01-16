@@ -7,4 +7,4 @@ tiles:
     argument: 'provname=陕西'
 script-providers:
   youjia:
-    url: https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/oil.js
+    url: https://raw.githubusercontent.com/wjxue1002/stash-citie/refs/heads/main/oil.js
